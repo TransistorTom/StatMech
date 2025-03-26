@@ -1,4 +1,4 @@
-Temperature (K) - Specific Heat (cal/mol/K)
+temperature,specific heat
 1  0.0001
 50 0.0125
 100 0.0498
